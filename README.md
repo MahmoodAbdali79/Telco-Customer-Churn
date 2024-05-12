@@ -81,19 +81,19 @@ This command tells Uvicorn to run the FastAPI app defined in the app module (app
 
 ```json
 {
-    "SeniorCitizen": 1,                     // 0, 1
-    "Partner": "Yes",                       // "Yes", "No"
-    "Dependents": "Yes",                    // "Yes", "No"
-    "tenure": 20,                           // int
-    "OnlineSecurity": "No",                 // "No", "Yes", "No internet service"
-    "OnlineBackup": "No" ,                  // "No", "Yes", "No internet service"
-    "DeviceProtection": "No" ,              // "No", "Yes", "No internet service"
-    "TechSupport": "Yes" ,                  // "No", "Yes", "No internet service"
-    "Contract": "Month-to-month",           //"Month-to-month", "One year", "Two year"
-    "PaperlessBilling": "Yes",              // "Yes", "No",
-    "PaymentMethod":"Electronic check",     // "Electronic check", "Mailed check", "Bank transfer (automatic)", "Credit card (automatic)"
-    "MonthlyCharges": 10,                   // int
-    "TotalCharges": 10                      // int
+    "SeniorCitizen": 1,                    
+    "Partner": "Yes",                     
+    "Dependents": "Yes",                    
+    "tenure": 20,                          
+    "OnlineSecurity": "No",                 
+    "OnlineBackup": "No" ,                  
+    "DeviceProtection": "No" ,              
+    "TechSupport": "Yes" ,                  
+    "Contract": "Month-to-month",          
+    "PaperlessBilling": "Yes",             
+    "PaymentMethod":"Electronic check",    
+    "MonthlyCharges": 10,                   
+    "TotalCharges": 10                      
 }
 ```
 
