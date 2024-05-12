@@ -11,13 +11,12 @@ We utilized a telecom churn dataset for our analysis, which contains information
 1. Exploratory Data Analysis (EDA):
 In the first phase, we conducted exploratory data analysis (EDA) to gain insights into the dataset's characteristics. We explored various features, visualized distributions, and identified patterns and correlations. The EDA process helped us understand the factors influencing customer churn.
 
-Notebook: Telecom EDA_v1.ipynb
+Notebook: Telecom [Telecom_EDA_v1.ipynb](https://github.com/MahmoodAbdali79/Predicting-Telecom-Churn-with-Machine-Learning/blob/main/Telecom_EDA_v1.ipynb)
 
 2. Model Development:
 In the second phase, we developed a predictive model to forecast customer churn. We experimented with different machine learning algorithms and techniques, fine-tuning hyperparameters to optimize model performance. Given the importance of correctly identifying churn cases, we prioritized **recall** as the primary evaluation metric.
 
-Notebook: Telecom Churn_Model.ipynb
-
+Notebook: Telecom [Telecom_Churn_Model.ipynb](https://github.com/MahmoodAbdali79/Predicting-Telecom-Churn-with-Machine-Learning/blob/main/Telecom_Churn_Model.ipynb)
 ## Model Performance
 After rigorous experimentation and evaluation, we achieved promising results with our predictive model:
 
