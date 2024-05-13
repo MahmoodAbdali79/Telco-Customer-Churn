@@ -1,4 +1,4 @@
-# Predicting Telecom Customer Churn
+# Predicting Telco Customer Churn
 ## Introduction
 Telecommunicationcompanies often face the challenge of retaining customers who are at risk of churning, i.e., discontinuing their services. Losing customers can significantly impact the company's revenue and profitability. To address this issue, we embarked on a project to develop a predictive model that identifies customers likely to churn, enabling proactive retention strategies.
 
