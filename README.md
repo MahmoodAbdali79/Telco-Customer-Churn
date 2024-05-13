@@ -1,24 +1,24 @@
 # Predicting Telco Customer Churn
 ## Introduction
-Telecommunicationcompanies often face the challenge of retaining customers who are at risk of churning, i.e., discontinuing their services. Losing customers can significantly impact the company's revenue and profitability. To address this issue, we embarked on a project to develop a predictive model that identifies customers likely to churn, enabling proactive retention strategies.
+Telecommunicationcompanies often face the challenge of retaining customers who are at risk of churning, i.e., discontinuing their services. Losing customers can significantly impact the company's revenue and profitability. To address this issue, I embarked on a project to develop a predictive model that identifies customers likely to churn, enabling proactive retention strategies.
 
 ##  Problem Statement
-The primary objective of this project is to create a predictive model capable of identifying telecom customers who are likely to churn. By analyzing historical customer data, we aim to develop a model that can predict churn with high accuracy, enabling the company to take preventive measures and retain valuable customers.
+The primary objective of this project is to create a predictive model capable of identifying telecom customers who are likely to churn. By analyzing historical customer data, I aim to develop a model that can predict churn with high accuracy, enabling the company to take preventive measures and retain valuable customers.
 
 ## Dataset and Approach
-We utilized a telecom churn dataset for our analysis, which contains information about customers' demographics, services availed, and churn status. The project was divided into two main phases:
+I utilized a telecom churn dataset for our analysis, which contains information about customers' demographics, services availed, and churn status. The project was divided into two main phases:
 
 1. Exploratory Data Analysis (EDA):
-In the first phase, we conducted exploratory data analysis (EDA) to gain insights into the dataset's characteristics. We explored various features, visualized distributions, and identified patterns and correlations. The EDA process helped us understand the factors influencing customer churn.
+In the first phase, I conducted exploratory data analysis (EDA) to gain insights into the dataset's characteristics. I explored various features, visualized distributions, and identified patterns and correlations. The EDA process helped us understand the factors influencing customer churn.
 
 Notebook: Telecom [Telecom_EDA_v1.ipynb](https://github.com/MahmoodAbdali79/Predicting-Telecom-Churn-with-Machine-Learning/blob/main/Telecom_EDA_v1.ipynb)
 
 2. Model Development:
-In the second phase, we developed a predictive model to forecast customer churn. We experimented with different machine learning algorithms and techniques, fine-tuning hyperparameters to optimize model performance. Given the importance of correctly identifying churn cases, we prioritized **recall** as the primary evaluation metric.
+In the second phase, I developed a predictive model to forecast customer churn. I experimented with different machine learning algorithms and techniques, fine-tuning hyperparameters to optimize model performance. Given the importance of correctly identifying churn cases, I prioritized **recall** as the primary evaluation metric.
 
 Notebook: Telecom [Telecom_Churn_Model.ipynb](https://github.com/MahmoodAbdali79/Predicting-Telecom-Churn-with-Machine-Learning/blob/main/Telecom_Churn_Model.ipynb)
 ## Model Performance
-After rigorous experimentation and evaluation, we achieved promising results with our predictive model:
+After rigorous experimentation and evaluation, I achieved promising results with our predictive model:
 
 - **Recall**: 0.88
 - **Precision**: 0.71
